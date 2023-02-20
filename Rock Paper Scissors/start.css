@@ -1,0 +1,27 @@
+body{
+    background-color:#90c9bf;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+   
+}
+
+button{
+    border: none;
+    color:black;
+    padding: 30px 40px 30px ;
+  
+}
+
+.ros{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: solid;
+    margin: 80px;
+    
+}
+
